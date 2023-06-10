@@ -27,8 +27,9 @@ Fonts are separated by a | */
   --nav-hover-link-color: #29335C;
   --nav-hover-background-color: #4B8F8C;
 }
-
-
+img {
+  width: 500px;
+}
 /*  Look around below...but DON'T CHANGE ANYTHING! */
 
 body {
