@@ -138,13 +138,13 @@ nav a:hover{
     border-radius: 5px;
     box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
 }
-.burger{
+#burger{
     grid-column: 2/3;
 }
 .b_img{
     width:100%
 }
-.alfre{
+#alfre{
     grid-column: 1/2;
 }
 .a_img{
@@ -179,7 +179,7 @@ footer {
     display: flex;
     justify-content: space-around;
     align-items: center;
-    font-size: 20;
+    font-size:20px;
 }
 footer a {
     color: #F4F9E9;
