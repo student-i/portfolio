@@ -138,6 +138,9 @@ nav a:hover{
     border-radius: 5px;
     box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
 }
+.info a:hover{
+    color:#29335C
+}
 #burger{
     grid-column: 2/3;
 }
